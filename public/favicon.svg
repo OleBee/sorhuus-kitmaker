@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>Sörhuus KitMaker</title>
+  <rect width="32" height="32" rx="7" fill="#101114"/>
+  <rect x="2.5" y="2.5" width="27" height="27" rx="5" fill="#2a3138"/>
+  <circle cx="16" cy="6.2" r="1.7" fill="#f0a030"/>
+  <rect x="6.5" y="10" width="19" height="14.5" rx="2.5" fill="#16191d"/>
+  <rect x="9.5" y="13" width="13" height="8.5" rx="1.4" fill="#eceae4"/>
+</svg>
