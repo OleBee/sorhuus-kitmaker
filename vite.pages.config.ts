@@ -2,9 +2,9 @@ import { defineConfig } from "vite";
 import viteReact from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 
-/** Static build for GitHub Pages: https://olebee.github.io/sorhuus-kitmaker/ */
+/** Static build for https://kitmaker.no */
 export default defineConfig({
-  base: "/sorhuus-kitmaker/",
+  base: "/",
   plugins: [tailwindcss(), viteReact()],
   resolve: { tsconfigPaths: true },
   build: {

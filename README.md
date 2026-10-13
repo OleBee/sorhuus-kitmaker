@@ -4,5 +4,5 @@ Slice a long drum recording into hits, sort them by sound, and build a velocity-
 
 Drop one audio file (wav, aiff, or a common compressed format). The cuts follow the sensitivity and gap knobs. Each hit can be moved between voices, layered by amplitude, and given a short fade so the end does not click. Download a folder of samples and sampler patches.
 
-Live site: [olebee.github.io/sorhuus-kitmaker](https://olebee.github.io/sorhuus-kitmaker/).
+Live site: [kitmaker.no](https://kitmaker.no/).
 
